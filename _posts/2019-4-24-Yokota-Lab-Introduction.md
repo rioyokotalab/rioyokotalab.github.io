@@ -42,11 +42,11 @@ Statistical learning theory is a system of theories for mathematically clarifyin
 
 In particular,  we focus on the study of algorithms for learning data and aim to understand the probabilistic behavior of learning algorithms through their background and probabilistic considerations.
 In the statistical learning theory research group we focus on:
--Learning Theory
--Statistical Learning
--Probabilistic Optimization
--Continuous Optimization
--Variational Bayes
+- Learning Theory
+- Statistical Learning
+- Probabilistic Optimization
+- Continuous Optimization
+- Variational Bayes
 
 ### Information Geometry
 
