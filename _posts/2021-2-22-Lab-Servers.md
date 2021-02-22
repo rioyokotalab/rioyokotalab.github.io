@@ -21,16 +21,16 @@ title: 横田研の計算機環境
 #### ハードウェア
 横田理央研究室での研究対象はGPUであることが多いため、多数のGPUサーバを保有しています（合計28GPUs）。
 
-| CPU                    | ホストメモリ   | GPU (1ノードあたりの搭載数)        | 台数 |
-| ---------------------- | ------------ | ------------------------------- | ---- |
-| Intel Xeon Silver 4215 | 96GB         | NVIDIA GeForce GTX 1080Ti (2)   | 4    |
-|                        |              | NVIDIA GeForce RTX 2080 (2)     | 2    |
-|                        |              | NVIDIA GeForce RTX 2080Ti (2)   | 1    |
-|                        |              | NVIDIA TITAN V (2)              | 1    |
-|                        |              | NVIDIA TESLA V100 PCIe 16GB (1) | 1    |
-| Intel Xeon E5-2630v3   | 64GB         | NVIDIA TITAN RTX (1)            | 1    |
-| Intel Core i9-7940X    | 64GB         | NVIDIA A6000 (2)                | 1    |
-| AMD EPYC 7742          | 1TB          | NVIDIA A100 SXM4 (8)            | 1    |
+| CPU                    | GPU (1ノードあたりの搭載数)     | ホストメモリ | 台数 |
+| ---------------------- | ------------------------------- | ------------ | ---- |
+| Intel Xeon Silver 4215 | NVIDIA GeForce GTX 1080Ti (2)   | 96GB         | 4    |
+|                        | NVIDIA GeForce RTX 2080 (2)     |              | 2    |
+|                        | NVIDIA GeForce RTX 2080Ti (2)   |              | 1    |
+|                        | NVIDIA TITAN V (2)              |              | 1    |
+|                        | NVIDIA TESLA V100 PCIe 16GB (1) |              | 1    |
+| Intel Xeon E5-2630v3   | NVIDIA TITAN RTX (1)            | 64GB         | 1    |
+| Intel Core i9-7940X    | NVIDIA A6000 (2)                | 64GB         | 1    |
+| AMD EPYC 7742          | NVIDIA A100 SXM4 (8)            | 1TB          | 1    |
 
 （2021.02.18現在）
 
