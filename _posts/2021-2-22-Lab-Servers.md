@@ -40,7 +40,7 @@ title: 横田研の計算機環境
 複数の計算機を用いたMPIによる並列計算も10GbEによりサポートしています。
 また、これに加えIntel KNL搭載ノードやPEZY SC2搭載ノードも保有しており、特殊なプロセッサについても研究がも行われています。
 
-![Grafana](/images/hinadori-1.jpg)
+![Hinadori](/images/hinadori-1.jpg)
 
 #### ソフトウェア
 ##### ジョブスケジューリング
@@ -63,3 +63,10 @@ CUDA関係や各種コンパイラは[Environment Modules](https://modules.readt
 クラスタの運用は、学生や先生のボランティアによって行われておりますが、本業の研究が進まなくなってしまっては元も子もありません。
 そのため、構成管理ツールの[Ansible](https://www.ansible.com/)や、リモート管理ツールのIPMI、ユーザ管理のためLDAPのSaaSを導入するなどして、できるだけ手が掛からないようにしています。
 新たにノードをセットアップする処理も自動化されており、OSのインストールから30分程度でユーザが利用できます。
+
+## 写真
+
+![Hinadori-2](/images/hinadori-2.jpg)
+![Hinadori-3](/images/hinadori-3.jpg)
+![Hinadori-4](/images/hinadori-4.jpg)
+![Hinadori-5](/images/hinadori-5.jpg)
