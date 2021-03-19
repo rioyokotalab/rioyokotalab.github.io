@@ -11,19 +11,19 @@ title: 2020年度ひなどりクラスタあれこれ
 
 ひなどりクラスタは現在以下に示す17ノード52 GPUの計算資源から構成されています。
 
-| CPU                    | GPU (1ノードあたりの搭載数)     | ホストメモリ | 台数 |
-| ---------------------- | ------------------------------- | ------------ | ---- |
-| AMD EPYC 7402          | NVIDIA GeForce RTX 3090 (8)     | 512GB        | 3    |
-| AMD EPYC 7302          | NVIDIA A6000 (2)                | 256GB        | 1    |
-| AMD EPYC 7742          | NVIDIA A100 SXM4 (8)            | 1TB          | 1    |
-| Intel Xeon Silver 4215 | NVIDIA GeForce GTX 1080Ti (2)   | 96GB         | 4    |
-|                        | NVIDIA GeForce RTX 2080 (2)     |              | 2    |
-|                        | NVIDIA GeForce RTX 2080Ti (2)   |              | 1    |
-|                        | NVIDIA TITAN V (2)              |              | 1    |
-|                        | NVIDIA TESLA V100 PCIe 16GB (1) |              | 1    |
-| Intel Xeon E5-2630v3   | NVIDIA TITAN RTX (1)            | 64GB         | 1    |
-| AMD EPYC 7502          | -                               | 512GB        | 1    |
-| AMD EPYC 7252          | -                               | 64GB         | 1    |
+| CPU                    | GPU (1ノードあたりの搭載数)     | Host Mem | 台数 |
+| ---------------------- | ------------------------------- | -------- | ---- |
+| AMD EPYC 7402          | NVIDIA GeForce RTX 3090 (8)     | 512GB    | 3    |
+| AMD EPYC 7302          | NVIDIA A6000 (2)                | 256GB    | 1    |
+| AMD EPYC 7742          | NVIDIA A100 SXM4 (8)            | 1TB      | 1    |
+| Intel Xeon Silver 4215 | NVIDIA GeForce GTX 1080Ti (2)   | 96GB     | 4    |
+|                        | NVIDIA GeForce RTX 2080 (2)     |          | 2    |
+|                        | NVIDIA GeForce RTX 2080Ti (2)   |          | 1    |
+|                        | NVIDIA TITAN V (2)              |          | 1    |
+|                        | NVIDIA TESLA V100 PCIe 16GB (1) |          | 1    |
+| Intel Xeon E5-2630v3   | NVIDIA TITAN RTX (1)            | 64GB     | 1    |
+| AMD EPYC 7502          | -                               | 512GB    | 1    |
+| AMD EPYC 7252          | -                               | 64GB     | 1    |
 
 （2021.03.20現在）
 
@@ -57,7 +57,7 @@ CUDA関係や各種コンパイラは[Environment Modules](https://modules.readt
 監視している主なメトリクスには、CPU使用率やGPU使用率といった性能最適化に利用できるものや、ひなどりクラスタの利用履歴やGPUの温度、消費電力など管理者による監視に必要なものがあります。  
 ユーザは様々な情報にブラウザ経由でアクセスできます。  
 
-![Grafana](aa)
+![Grafana](/images/grafana.png)
 
 ### Ansibleによる環境の統一
 ノードのセットアップはAnsibleを用いて行っています。  
@@ -233,4 +233,4 @@ DGX A100に限った話ではありませんが。
 ひなどりクラスタ用のチャンネルで欲しいパッケージや機能を言うと鯖缶が時間があるときに導入したりしています。  
 間違えて鯖缶が人が入っているloginノードに再起動をかけてしまったときに謝罪をしたりもしています。
 
-## 写真
+## おわりに
