@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="832px"
+   height="832px"
+   viewBox="-0.5 -0.5 832 832"
+   content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-03-19T12:11:36.872Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36&quot; version=&quot;14.4.8&quot; etag=&quot;Bz82mFfQB5uOfzEaTAnF&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;oEGMpyS9B6Lk6c2ECljR&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;"
+   id="svg1124">
+  <metadata
+     id="metadata1128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs774" />
+  <g
+     id="g1114">
+    <rect
+       x="480"
+       y="80"
+       width="140"
+       height="720"
+       fill="#b3b3b3"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect776" />
+    <rect
+       x="320"
+       y="80"
+       width="140"
+       height="720"
+       fill="#b3b3b3"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect778" />
+    <rect
+       x="160"
+       y="80"
+       width="140"
+       height="720"
+       fill="#b3b3b3"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect780" />
+    <rect
+       x="0"
+       y="80"
+       width="140"
+       height="720"
+       fill="#b3b3b3"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect782" />
+    <path
+       d="M 70 710 L 70 430 L 360 430 L 360 170"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path784" />
+    <rect
+       x="10"
+       y="710"
+       width="120"
+       height="80"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect786" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g790">
+      <text
+         x="69.5"
+         y="758"
+         id="text788">dgx-a100</text>
+    </g>
+    <path
+       d="M 290 750 L 310 750 L 310 140 L 290 140"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path792" />
+    <path
+       d="M 170 730 L 150 730 L 150 160 L 170 160"
+       fill="none"
+       stroke="#00cc00"
+       stroke-width="6"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path794" />
+    <path
+       d="M 170 770 L 150 770 L 150 730"
+       fill="none"
+       stroke="#00cc00"
+       stroke-width="6"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path796" />
+    <rect
+       x="170"
+       y="710"
+       width="120"
+       height="80"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect798" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g802">
+      <text
+         x="229.5"
+         y="758"
+         id="text800">am-01</text>
+    </g>
+    <path
+       d="M 290 650 L 310 650 L 310 140 L 290 140"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path804" />
+    <path
+       d="M 170 630 L 150 630 L 150 160 L 170 160"
+       fill="none"
+       stroke="#00cc00"
+       stroke-width="6"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path806" />
+    <path
+       d="M 170 670 L 150 670"
+       fill="none"
+       stroke="#00cc00"
+       stroke-width="6"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path808" />
+    <rect
+       x="170"
+       y="610"
+       width="120"
+       height="80"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect810" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g814">
+      <text
+         x="229.5"
+         y="658"
+         id="text812">am-02</text>
+    </g>
+    <path
+       d="M 290 550 L 310 550 L 310 140 L 290 140"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path816" />
+    <path
+       d="M 170 530 L 150 530 L 150 160 L 170 160"
+       fill="none"
+       stroke="#00cc00"
+       stroke-width="6"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path818" />
+    <path
+       d="M 170 570 L 150 570"
+       fill="none"
+       stroke="#00cc00"
+       stroke-width="6"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path820" />
+    <rect
+       x="170"
+       y="510"
+       width="120"
+       height="80"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect822" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g826">
+      <text
+         x="229.5"
+         y="558"
+         id="text824">am-03</text>
+    </g>
+    <path
+       d="M 290 240 L 360 240"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path828" />
+    <rect
+       x="170"
+       y="150"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect830" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g834">
+      <text
+         x="229.5"
+         y="168"
+         id="text832">IB HDR SW</text>
+    </g>
+    <path
+       d="M 260 130 L 260 110 L 360 110 L 360 150"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path836" />
+    <rect
+       x="170"
+       y="130"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect838" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g842">
+      <text
+         x="229.5"
+         y="148"
+         id="text840">Eth 1G SW</text>
+    </g>
+    <path
+       d="M 420 750 L 420 170"
+       fill="none"
+       stroke="#000000"
+       stroke-width="8"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path844" />
+    <path
+       d="M 360 750 L 360 490 L 150 490 L 150 480"
+       fill="none"
+       stroke="#00cc00"
+       stroke-width="6"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path846" />
+    <rect
+       x="330"
+       y="750"
+       width="120"
+       height="40"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect848" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g852">
+      <text
+         x="389.5"
+         y="778"
+         id="text850">nas</text>
+    </g>
+    <path
+       d="M 610 520 L 630 520 L 630 160 L 610 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path854" />
+    <rect
+       x="490"
+       y="510"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect856" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g860">
+      <text
+         x="549.5"
+         y="528"
+         id="text858">trti</text>
+    </g>
+    <path
+       d="M 610 590 L 630 590 L 630 160 L 610 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path862" />
+    <rect
+       x="490"
+       y="550"
+       width="120"
+       height="80"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect864" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g868">
+      <text
+         x="549.5"
+         y="598"
+         id="text866">titanrtx</text>
+    </g>
+    <path
+       d="M 450 160 L 490 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path870" />
+    <path
+       d="M 390 150 L 390 40"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path872" />
+    <path
+       d="M 390 170 L 390 450"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path874" />
+    <rect
+       x="330"
+       y="150"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect876" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g880">
+      <text
+         x="389.5"
+         y="168"
+         id="text878">Eth 10G SW</text>
+    </g>
+    <path
+       d="M 610 480 L 630 480 L 630 160 L 610 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path882" />
+    <rect
+       x="490"
+       y="470"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect884" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g888">
+      <text
+         x="549.5"
+         y="488"
+         id="text886">teslav</text>
+    </g>
+    <path
+       d="M 610 440 L 630 440 L 630 160 L 610 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path890" />
+    <rect
+       x="490"
+       y="430"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect892" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g896">
+      <text
+         x="549.5"
+         y="448"
+         id="text894">titanv</text>
+    </g>
+    <path
+       d="M 610 400 L 630 400 L 630 160 L 610 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path898" />
+    <rect
+       x="490"
+       y="390"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect900" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g904">
+      <text
+         x="549.5"
+         y="408"
+         id="text902">tr-02</text>
+    </g>
+    <path
+       d="M 610 360 L 630 360 L 630 160 L 610 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path906" />
+    <rect
+       x="490"
+       y="350"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect908" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g912">
+      <text
+         x="549.5"
+         y="368"
+         id="text910">tr-01</text>
+    </g>
+    <path
+       d="M 610 320 L 630 320 L 630 160 L 610 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path914" />
+    <rect
+       x="490"
+       y="310"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect916" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g920">
+      <text
+         x="549.5"
+         y="328"
+         id="text918">psti-04</text>
+    </g>
+    <path
+       d="M 610 280 L 630 280 L 630 160 L 610 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path922" />
+    <rect
+       x="490"
+       y="270"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect924" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g928">
+      <text
+         x="549.5"
+         y="288"
+         id="text926">psti-03</text>
+    </g>
+    <path
+       d="M 610 240 L 630 240 L 630 160 L 610 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path930" />
+    <rect
+       x="490"
+       y="230"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect932" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g936">
+      <text
+         x="549.5"
+         y="248"
+         id="text934">psti-02</text>
+    </g>
+    <rect
+       x="490"
+       y="190"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect938" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g942">
+      <text
+         x="549.5"
+         y="208"
+         id="text940">psti-01</text>
+    </g>
+    <path
+       d="M 610 160 L 630 160 L 630 200 L 610 200"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path944" />
+    <path
+       d="M 610 160 L 680 160 L 680 690"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path946" />
+    <path
+       d="M 610 160 L 740 160 L 740 690"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path948" />
+    <rect
+       x="490"
+       y="150"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect950" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g954">
+      <text
+         x="549.5"
+         y="168"
+         id="text952">Eth 10G SW</text>
+    </g>
+    <path
+       d="M 610 140 L 800 140 L 800 690"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path956" />
+    <rect
+       x="490"
+       y="130"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect958" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g962">
+      <text
+         x="549.5"
+         y="148"
+         id="text960">Eth 1G SW</text>
+    </g>
+    <path
+       d="M 510 110 L 470 110 L 470 160"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path964" />
+    <rect
+       x="510"
+       y="90"
+       width="80"
+       height="40"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect966" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g970">
+      <text
+         x="549.5"
+         y="118"
+         id="text968">backup</text>
+    </g>
+    <rect
+       x="770"
+       y="690"
+       width="60"
+       height="100"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect972" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g976">
+      <text
+         x="799.5"
+         y="748"
+         id="text974">sc2</text>
+    </g>
+    <rect
+       x="650"
+       y="690"
+       width="60"
+       height="100"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect978" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g982">
+      <text
+         x="679.5"
+         y="748"
+         id="text980">knl1</text>
+    </g>
+    <rect
+       x="710"
+       y="690"
+       width="60"
+       height="100"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect984" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g988">
+      <text
+         x="739.5"
+         y="748"
+         id="text986">knl2</text>
+    </g>
+    <path
+       d="M 390 20 L 390 0"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path990" />
+    <rect
+       x="330"
+       y="20"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect992" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g996">
+      <text
+         x="389.5"
+         y="38"
+         id="text994">10G Router</text>
+    </g>
+    <path
+       d="M 170 280 L 150 280 L 150 160 L 170 160"
+       fill="none"
+       stroke="#00cc00"
+       stroke-width="6"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path998" />
+    <path
+       d="M 290 280 L 360 280 L 360 170"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1000" />
+    <rect
+       x="170"
+       y="270"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1002" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g1006">
+      <text
+         x="229.5"
+         y="288"
+         id="text1004">IB-Eth</text>
+    </g>
+    <path
+       d="M 630 160 L 630 140"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1008" />
+    <path
+       d="M 480 37.5 L 520 37.5"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1010" />
+    <path
+       d="M 480 17.5 L 520 17.5"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1012" />
+    <rect
+       x="520"
+       y="7.5"
+       width="80"
+       height="20"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect1014" />
+    <g
+       transform="translate(-0.5 -0.5)"
+       id="g1020">
+      <switch
+         id="switch1018">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 78px; height: 1px; padding-top: 18px; margin-left: 522px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: left; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 16px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">1G Eth</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="522"
+           y="22"
+           fill="#000000"
+           font-family="Helvetica"
+           font-size="16px"
+           id="text1016">1G Eth</text>
+      </switch>
+    </g>
+    <path
+       d="M 630 37.5 L 670 37.5"
+       fill="none"
+       stroke="#00cc00"
+       stroke-width="6"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1022" />
+    <rect
+       x="670"
+       y="30"
+       width="120"
+       height="20"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect1024" />
+    <g
+       transform="translate(-0.5 -0.5)"
+       id="g1030">
+      <switch
+         id="switch1028">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 118px; height: 1px; padding-top: 40px; margin-left: 672px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: left; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 16px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">InfiniBand HDR</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="672"
+           y="45"
+           fill="#000000"
+           font-family="Helvetica"
+           font-size="16px"
+           id="text1026">InfiniBand HDR</text>
+      </switch>
+    </g>
+    <rect
+       x="490"
+       y="810"
+       width="120"
+       height="20"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect1032" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="16px"
+       id="g1036">
+      <text
+         x="549.5"
+         y="826.5"
+         id="text1034">第1ラック</text>
+    </g>
+    <rect
+       x="320"
+       y="810"
+       width="140"
+       height="20"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect1038" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="16px"
+       id="g1042">
+      <text
+         x="389.5"
+         y="826.5"
+         id="text1040">ネットワークラック</text>
+    </g>
+    <rect
+       x="160"
+       y="810"
+       width="120"
+       height="20"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect1044" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="16px"
+       id="g1048">
+      <text
+         x="219.5"
+         y="826.5"
+         id="text1046">第2ラック</text>
+    </g>
+    <rect
+       x="10"
+       y="810"
+       width="120"
+       height="20"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect1050" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="16px"
+       id="g1054">
+      <text
+         x="69.5"
+         y="826.5"
+         id="text1052">第3ラック</text>
+    </g>
+    <path
+       d="M 290 30 L 330 30"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1056" />
+    <rect
+       x="170"
+       y="20"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1058" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g1062">
+      <text
+         x="229.5"
+         y="38"
+         id="text1060">103/210</text>
+    </g>
+    <path
+       d="M 290 350 L 325 350 L 360 350.06"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1064" />
+    <rect
+       x="170"
+       y="310"
+       width="120"
+       height="80"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1066" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g1070">
+      <text
+         x="229.5"
+         y="358"
+         id="text1068">A6000</text>
+    </g>
+    <rect
+       x="170"
+       y="230"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1072" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g1076">
+      <text
+         x="229.5"
+         y="248"
+         id="text1074">epyc-7502</text>
+    </g>
+    <rect
+       x="410"
+       y="440"
+       width="20"
+       height="40"
+       fill="#b3b3b3"
+       stroke="none"
+       pointer-events="all"
+       id="rect1078" />
+    <path
+       d="M 330 460 L 150 460"
+       fill="none"
+       stroke="#00cc00"
+       stroke-width="6"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1080" />
+    <rect
+       x="330"
+       y="450"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1082" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g1086">
+      <text
+         x="389.5"
+         y="468"
+         id="text1084">login</text>
+    </g>
+    <rect
+       x="520"
+       y="27.5"
+       width="80"
+       height="20"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect1088" />
+    <g
+       transform="translate(-0.5 -0.5)"
+       id="g1094">
+      <switch
+         id="switch1092">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 78px; height: 1px; padding-top: 38px; margin-left: 522px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: left; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 16px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">10G Eth</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="522"
+           y="42"
+           fill="#000000"
+           font-family="Helvetica"
+           font-size="16px"
+           id="text1090">10G Eth</text>
+      </switch>
+    </g>
+    <path
+       d="M 630 17.5 L 670 17.5"
+       fill="none"
+       stroke="#000000"
+       stroke-width="8"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1096" />
+    <rect
+       x="670"
+       y="7.5"
+       width="90"
+       height="20"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect1098" />
+    <g
+       transform="translate(-0.5 -0.5)"
+       id="g1104">
+      <switch
+         id="switch1102">
+        <foreignObject
+           style="overflow: visible; text-align: left;"
+           pointer-events="none"
+           width="100%"
+           height="100%"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 88px; height: 1px; padding-top: 18px; margin-left: 672px;">
+            <xhtml:div
+               style="box-sizing: border-box; font-size: 0; text-align: left; ">
+              <xhtml:div
+                 style="display: inline-block; font-size: 16px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">10G Eth x2</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="672"
+           y="22"
+           fill="#000000"
+           font-family="Helvetica"
+           font-size="16px"
+           id="text1100">10G Eth x2</text>
+      </switch>
+    </g>
+    <rect
+       x="172.25"
+       y="190"
+       width="120"
+       height="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="all"
+       id="rect1106" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       text-anchor="middle"
+       font-size="19px"
+       id="g1110">
+      <text
+         x="231.75"
+         y="208"
+         id="text1108">epyc-7252</text>
+    </g>
+    <path
+       d="M 292.25 199.9 L 362.25 199.9"
+       fill="none"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-miterlimit="10"
+       pointer-events="stroke"
+       id="path1112" />
+  </g>
+  <switch
+     id="switch1122">
+    <g
+       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+       id="g1116" />
+    <a
+       transform="translate(0,-5)"
+       xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+       target="_blank"
+       id="a1120">
+      <text
+         text-anchor="middle"
+         font-size="10px"
+         x="50%"
+         y="100%"
+         id="text1118">Viewer does not support full SVG 1.1</text>
+    </a>
+  </switch>
+</svg>
