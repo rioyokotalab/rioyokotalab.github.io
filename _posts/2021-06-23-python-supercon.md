@@ -3,6 +3,12 @@ layout: post
 title: 横田研で推奨しているPython環境構築
 ---
 
+<style>
+.highlight {
+background-color: #fff;
+}
+</style>
+
 横田研鯖缶です。  
 横田研の人はTSUBAMEやABCI、富岳、Summitなど、多くのスパコンを使います。  
 ここではどのスパコンでもだいたい使えるPythonの環境構築の仕方を書いていきます。
