@@ -40,6 +40,8 @@ eval "$(pyenv init --path)"
 
 ### 3. pyenvの環境変数等の反映  
 
+今設定したpyenvの環境変数等を以下のどれかの方法で反映させる。
+
 <pre class='highlight'>
 . ~/.zshrc
 </pre>
@@ -47,7 +49,9 @@ eval "$(pyenv init --path)"
 <pre class='highlight'>
 . ~/.bashrc
 </pre>
-とか一度exitしてsshし直すとか。
+とか。
+
+一度exitしてsshし直すとかでもいいです。
 
 ### 4. Pythonのインストール  
 
