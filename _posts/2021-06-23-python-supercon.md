@@ -78,7 +78,7 @@ pyenv global 3.8.5
   - 僕も[ひなどりクラスタ](https://rioyokotalab.github.io/Lab-Servers-2020/)のパッケージ管理をしていますが、大体管理者が入れるパッケージはけしからんので、信じられるのは自分のみという気持ちでPythonに限らず全て自分で入れるのがいいでしょう。
 
 ## 補足
-またに`$HOME`は計算ノードから見られないスパコンがあります。  
+たまに`$HOME`は計算ノードから見られないスパコンがあります。  
 こういう場合はpyenvを計算ノードから見られるストレージに置く必要があります。  
 たとえばこれを`/path/to/work`とすれば、
 <pre class='highlight'>
@@ -96,6 +96,6 @@ export PYENV_ROOT="/path/to/work/.pyenv"
 
 loadしているmoduleが悪さをしている可能性があります。
 <pre class='highlight'>
-moduler purge
+module purge
 </pre>
 してみましょう。
