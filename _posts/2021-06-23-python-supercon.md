@@ -88,21 +88,6 @@ export PYENV_ROOT="/path/to/work/.pyenv"
 
 ## 遭遇したことがあるエラー・不具合
 
-### pyenv実行時にlocaleのエラーが出る。
-<pre class='highlight'>
-/home/XXXX/.pyenv/libexec/pyenv-help: 行 29: 警告: setlocale: LC_CTYPE: ロケールを変更できません (UTF-8): No such file or directory
-   doctor      Verify pyenv installation and development tools to build pythons.
-/home/XXXX/.pyenv/libexec/pyenv-help: 行 29: 警告: setlocale: LC_CTYPE: ロケールを変更できません (UTF-8): No such file or directory
-   exec        Run an executable with the selected Python version
-</pre>
-
-なにか環境変数が足りない場合があります。  
-今回は
-<pre class='highlight'>
-export LANG=ja_JP.UTF-8
-</pre>
-を`.bashrc`等に追記し反映することで解決しました。
-
 ### Pythonのインストールが刺さる
 
 loadしているmoduleが悪さをしている可能性があります。
